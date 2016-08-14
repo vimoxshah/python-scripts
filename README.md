@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Web Scraping Scripts
 ----------
 
@@ -40,3 +41,7 @@
 
 
 
+=======
+# python-scripts
+##This Repo contains various python-web scraping scripts
+>>>>>>> origin/master

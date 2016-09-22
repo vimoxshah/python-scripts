@@ -7,6 +7,12 @@
 
 * Using Beautifulsoup library I made some python scripts which is useful for various purposes.
 
+### coding.py
+* It will give you random 5 different coding problems from different online judges like [Codechef](http://codechef.com), [a2OJ](http://a2oj.com), [Leet Code](http://leetcode.com) and it also provide nearest coding competition details which is fetched from [hackerrank's calendar] (https://www.hackerrank.com/calendar/feed.rss).
+
+### geeks_puzzle.py
+* It will provide you random puzzle from [geekforgeeks site](http://geeksquiz.com/category/articles/puzzle/)
+
 ### carriercup.py
 * Running this script you will get 5 different companies interview questions from [carriercup sites](https://www.careercup.com/). This is very useful if you are preparing for interview. If you scheduled it that run daily this script at 9:00 AM you will get daily 5 different companies interview questions and you can sharpen your skills.
  

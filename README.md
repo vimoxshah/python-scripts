@@ -32,7 +32,7 @@
 
 ### month_competition.py
 
-* It will give you the details of all the competition which are coming in next 8 days on [Hackerrank](https://www.hackerrank.com/calendar/feed.rss) Platform.this also can be scheduled and send email every day to your friends who are interested in coding.
+* It will give you the details of all the competition which are coming in next 8 days from [Hackerrank's calendar](https://www.hackerrank.com/calendar/feed.rss) Platform.this also can be scheduled and send email every day to your friends who are interested in coding.
 
 ### geeks_pyj.py
 
